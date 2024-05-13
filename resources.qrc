@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/icon.jpeg</file>
+        <file>images/age.jpg</file>
+    </qresource>
+    <qresource prefix="/steps">
+        <file>images/step1.png</file>
+        <file>images/step2.png</file>
+        <file>images/step3.png</file>
+        <file>images/stepfin.png</file>
+    </qresource>
+    <qresource prefix="/interface">
+        <file>images/coins.png</file>
+        <file>images/laststep.png</file>
+        <file>images/locked.png</file>
+        <file>images/changename.png</file>
+        <file>images/hammer.png</file>
+        <file>images/help.png</file>
+        <file>images/home.png</file>
+        <file>images/retry.png</file>
+        <file>images/password.png</file>
+        <file>images/rank.png</file>
+        <file>images/best.png</file>
+        <file>images/gift.png</file>
+        <file>images/history.png</file>
+        <file>images/people.png</file>
+        <file>images/clock.png</file>
+        <file>images/end.png</file>
+        <file>images/pause.png</file>
+        <file>images/start.png</file>
+        <file>images/attempt.png</file>
+        <file>images/game.png</file>
+        <file>images/save.png</file>
+        <file>images/pre.png</file>
+        <file>images/double.png</file>
+        <file>images/register.png</file>
+        <file>images/version.png</file>
+        <file>images/unlocked.png</file>
+        <file>images/system.png</file>
+        <file>images/probability.png</file>
+    </qresource>
+    <qresource prefix="/endgame">
+        <file>images/new.png</file>
+        <file>images/addcoins.png</file>
+    </qresource>
+    <qresource prefix="/medal">
+        <file>images/bronze.png</file>
+        <file>images/gold.png</file>
+        <file>images/silver.png</file>
+    </qresource>
+    <qresource prefix="/skills">
+        <file>images/fog.png</file>
+        <file>images/lives.png</file>
+        <file>images/plus.png</file>
+        <file>images/cover.png</file>
+        <file>images/warning.png</file>
+    </qresource>
+</RCC>
